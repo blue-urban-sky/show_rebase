@@ -2,3 +2,4 @@
 demo rebasing
 a
 b
+c
