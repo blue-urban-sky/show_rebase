@@ -1,6 +1,8 @@
 # show_rebase
 demo rebasing
-a
-b
-c
-d
+1
+2
+
+Cat.gif
+
+continue doing stuff
