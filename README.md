@@ -3,3 +3,4 @@ demo rebasing
 a
 b
 c
+d
